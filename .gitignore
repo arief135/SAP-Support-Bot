@@ -1,0 +1,7 @@
+node_modules/
+.vscode/
+dist/
+data/
+dev_rfc.trc
+logs/
+config/.env
